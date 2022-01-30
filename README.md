@@ -24,10 +24,10 @@
       <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=unknowns24&ring=01fb71&currStreakLabel=01fb71&fire=01fb71&theme=dark&hide_border=true" alt="unknowns24" />
     </a>
     <a href="https://github.com/unknowns24" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=unknowns24&show_icons=true&theme=dark&hide_border=true" />
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=unknowns24&icon_color=01fb71&show_icons=true&theme=dark&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=unknowns24&theme=dark&bg_color=141514&line=fff&color=fff&point=000&hide_border=true" width="100%"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=unknowns24&theme=dark&bg_color=141514&line=01fb71&color=fff&point=000&hide_border=true" width="100%"/>
 </p>
