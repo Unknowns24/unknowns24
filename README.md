@@ -13,7 +13,7 @@
   I love learn new things about technology and I want to make my coding skill better.
   <br>
   <br>
-    Some statistics
+    Some stats
   <br>
 </p>
 
