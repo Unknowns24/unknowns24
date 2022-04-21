@@ -3,20 +3,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?color=%231FBF00&lines=Hello,+There!+👋;I+am+unknowns24....;&center=true&size=30">
   </a>
 </h1>
-
-<br>
-
-<p align="center">
-  Hi, my name is Genaro Civilotti.
-  <br>
-  <br>
-  I love learn new things about technology and I want to make my coding skill better.
-  <br>
-  <br>
-    Some stats
-  <br>
-</p>
-
 <br>
 <p align=center>
   <div align=center>
