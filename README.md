@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-I am an entrepreneur person who is passionate about learning more about programming, algorithms and software design patterns. I specialize as a full-stack programmer. Currently studying the career of system engineer on the Argentine university [UTN](https://utn.edu.ar/).
+I am an entrepreneur person who is passionate about learning more about programming, algorithms and software design patterns. I specialize as a full-stack programmer. Currently studying the career of system engineer.
 
 ---
 
