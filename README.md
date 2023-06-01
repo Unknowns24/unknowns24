@@ -38,5 +38,5 @@ I am an entrepreneur person who is passionate about learning more about programm
 
 <div style='display: "inline-block";'>
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=unknowns24&ring=01fb71&currStreakLabel=01fb71&fire=01fb71&theme=dark&hide_border=true" alt="unknowns24" />
-  <img  width="49%" src="https://github-readme-stats.vercel.app/api?username=unknowns24&include_all_commits=true&icon_color=01fb71&show_icons=true&theme=dark&hide_border=true&title_color=01fb71" />
+  <img  width="49%" src="https://github-readme-stats.vercel.app/api?username=unknowns24&icon_color=01fb71&show_icons=true&theme=dark&hide_border=true&title_color=01fb71&rank_icon=github" />
 </div>
