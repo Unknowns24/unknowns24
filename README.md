@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-I am an entrepreneur person who is passionate about learning more about programming, algorithms and software design patterns. I specialize as a full-stack programmer. Currently studying the career of system engineer.
+Highly experienced Full-Stack Software Engineer with over 3 years of professional experience developing robust software solutions. Proficient in creating user-friendly interfaces, working in agile environments, and implementing software architecture design patterns. Track record of delivering high-quality code on-time and on-budget. Strong problem-solving skills and ability to work well under pressure.
 
 ---
 
