@@ -31,6 +31,7 @@ Highly experienced Full-Stack Software Engineer with over 3 years of professiona
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
+> [!NOTE]
 > I have solid knowledge in software architecture patterns, interface design, user experience and in useful frameworks as Fiber, Gin, ExpressJS, NodeJS, ReactJS, ReactNative, Laravel, MaterialU, Bootstrap
 
 ### GitHub Stats
